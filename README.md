@@ -21,5 +21,6 @@ The Pacman Game is a Java-based recreation of the classic arcade game Pacman. Pl
 
 ## Source Code
 
-Java games programming `e-book`: https://zetcode.com/ebooks/javagames/
+- Java games programming `e-book`: https://zetcode.com/ebooks/javagames/
 
+---
